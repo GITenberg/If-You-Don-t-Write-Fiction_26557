@@ -1,0 +1,26 @@
+_repo: If-You-Don-t-Write-Fiction_26557
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cushing, Charles Phelps
+    birthdate: 1884
+    gutenberg_agent_id: '32096'
+    url: http://www.gutenberg.org/2009/agents/32096
+description: ''
+gutenberg_issued: '2008-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26557'
+  lccn: '20011318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship'
+- !lcc 'PN'
+title: If You Don't Write Fiction
+url: http://www.gutenberg.org/ebooks/26557
